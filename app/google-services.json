@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457564548446",
+    "project_id": "clevertapmyappforround2",
+    "storage_bucket": "clevertapmyappforround2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457564548446:android:f45eab61032b4fbe04b3cf",
+        "android_client_info": {
+          "package_name": "com.CleverTapTest.clevertapandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457564548446-r5qc0toab34k419orsb8tv2voi9d4i6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBllmH_XXbedd-00Nm21V56dF0-8nJcThE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457564548446-r5qc0toab34k419orsb8tv2voi9d4i6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

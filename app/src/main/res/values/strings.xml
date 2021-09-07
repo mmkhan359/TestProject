@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAppForRoundTest2</string>
+    <string name="CLEVERTAP_ACCOUNT_ID">TEST-6Z8-4ZZ-6R6Z</string>
+    <string name="CLEVERTAP_TOKEN">TEST-114-b16</string>
+</resources>
